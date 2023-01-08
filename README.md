@@ -10,6 +10,7 @@ See the project [website](https://rust-github.github.io).
 - Added the [`config.toml`](./template/.cargo/config.toml) and
   [`rustfmt.toml`](./template/rustfmt.toml) I usually use
 - Switched to a [GPL 3](./template/LICENSE) license
+- Added [`ci.yml`](./template/.github/workflows/ci.yml)
 
 ## Usage
 
